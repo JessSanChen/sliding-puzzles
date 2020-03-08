@@ -1,13 +1,12 @@
 # sliding-puzzles
 Solves sliding puzzles. According to specifications from Artificial Intelligence Lab01. 
 
-# File Descriptions
+## File Descriptions
 
-<b>"slide_puzzle_tests.txt"</b><br>
+### "slide_puzzle_tests.txt"
 Puzzles for Part I.
 
-<b>"sliding_puzzles_p4.py"</b>
-<br>
+### "sliding_puzzles_p4.py"
 Progress as of 3/8/2020. 
 <br>
 <i>Improvements:</i> Workable BFS/DFS search function (altered by .popleft() or .pop()) and returns correct paths. Both searches done in reasonable time (2-3 seconds for 3x3 puzzles). Implements global directory.<br>
