@@ -3,7 +3,10 @@ Solves sliding puzzles. According to specifications from Artificial Intelligence
 
 # File Descriptions
 
-<b>"sliding_puzzles_p4"</b>
+<b>"slide_puzzle_tests.txt"</b><br>
+Puzzles for Part I.
+
+<b>"sliding_puzzles_p4.py"</b>
 <br>
 Progress as of 3/8/2020. 
 <br>
